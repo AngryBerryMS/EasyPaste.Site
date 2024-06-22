@@ -2,7 +2,7 @@
 # EasyPaste
  <br>
 
-EasyPaste is a simple and easy to use clipboard manager for macOS.
+EasyPaste is a simple and easy to use clipboard manager for macOS. For more information, please visit [EasyPaste](https://angryberryms.github.io/EasyPaste.Site/).
 
 
   * **Collect** your clipboard history.

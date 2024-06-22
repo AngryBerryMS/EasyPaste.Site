@@ -33,7 +33,13 @@ bodyClass: "page-home"
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
           <h2 class="feature-title">{{ feature.title }}</h2>
+          {% if feature.link and  feature.description %}
+          <div class="feature-content"><a href={{ feature.link }} >{{ feature.description }}</a></div>
+          {% endif %}
+          {% if feature.link == null or feature.link == empty %}
           <div class="feature-content">{{ feature.description }}</div>
+          {% endif %}
+          
         </div>
       </div>
       {% endfor %}

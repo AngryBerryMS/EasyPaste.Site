@@ -1,7 +1,8 @@
 [
   {
     "title": "Apple Silicon Build",
-    "description": "download url",
+    "description": "EasyPaste-1.0.0-arm64.dmg",
+    "link": "https://github.com/AngryBerryMS/EasyPaste.Site/releases/download/release-v1.0.0/EasyPaste-1.0.0-arm64.dmg",
     "image": {
       "url": "images/features/apple-arm64.png",
       "width": 80,
@@ -19,7 +20,8 @@
   },
   {
     "title": "X86_64 Build",
-    "description": "download url",
+    "description": "EasyPaste-1.0.0-x64.dmg",
+    "link": "https://github.com/AngryBerryMS/EasyPaste.Site/releases/download/release-v1.0.0/EasyPaste-1.0.0-x64.dmg",
     "image": {
       "url": "images/features/apple-x86-64.png",
       "width": 80,
