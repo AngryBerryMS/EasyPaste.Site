@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Apple Silicon Build",
+    "description": "download url",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/apple-arm64.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Buy me a coffee",
+    "description": "Scan the above QR code to donate to the developer.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/donate.png",
+      "width": 180,
+      "height": 180
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "X86_64 Build",
+    "description": "download url",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/apple-x86-64.png",
       "width": 80,
       "height": 80
     }
